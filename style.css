@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    width: 1020px;
+    border: 1px solid #fff;
+    margin: 40px auto;
+}
+.dip1{
+    width: 333px;
+    height: 500px;
+    background: #2D7DD2;
+    display: inline-block;
+    
+    margin-right: -4px;
+}
+.dip2{
+    width: 333px;
+    height: 500px;
+    background: #97CC04;
+    display: inline-block;
+    
+    margin-right: -4px;
+
+}
+.dip3{
+    width: 333px;
+    height: 500px;
+    background: #F45D01;
+    display: inline-block;
+   
+
+}
+footer,h2{
+    text-align: center;
+    font-size: 40px;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 0, 123);
+}
